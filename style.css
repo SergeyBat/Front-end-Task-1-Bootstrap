@@ -1,0 +1,17 @@
+.active {
+	 background-color: var(--yellow);
+}
+
+
+:root {
+	--primary: #9B51E0;
+	--primary2: #6D3D99;
+	--yellow: #FFC740;
+}
+
+
+@media (min-width: 1400px){
+	.container{
+		max-width: 960px;
+	}
+}
